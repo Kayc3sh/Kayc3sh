@@ -54,25 +54,4 @@ I'm a 21-year-old Full-stack dev with 9+ years of experience. Focused on Linux s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
----
-
-### 📂 Featured Projects
-🔐 [**BotnetCNC Research**](https://github.com/hikariIoT/BotnetCNC)  
-> Simulated command-and-control infrastructure for educational insights into distributed attacks.
-
-📡 [**W3bCr3wl**](Soon...)  
->  A web crawler that looks for sites using a dork list with a match list.
->  Can be used to find vulnurable websites that contains specific keywords.
----
-
-### 📜 Certifications & Education
-- 🏫 Self-taught with continuous learning in advanced cybersecurity and development  
----
-
-### 📫 Connect With Me
-- 🌐 Website: [In development]  
-- 🔗 Telegram: [t.me/wifebeater32)  
-- 📬 Email: [HikariIT@proton.me  
-- 📍 Based in [Denmark] | Open to remote internships, collaborations & full-time roles  
-
 // tooda
