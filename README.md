@@ -1,4 +1,4 @@
-## Full-Stack Developer
+## Full-Stack Software Engineer
 
 
 ## 🌐 Socials:
