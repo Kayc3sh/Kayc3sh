@@ -1,4 +1,4 @@
-## Software Engineer & Sysadmin/infra
+## Full-Stack Software Engineer
 
 
 ## 🌐 Socials:
